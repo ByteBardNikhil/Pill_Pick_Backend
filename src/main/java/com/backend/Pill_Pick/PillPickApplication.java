@@ -8,6 +8,8 @@ public class PillPickApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PillPickApplication.class, args);
+		System.out.println("Nikhil Mahajan");
+
 	}
 
 }
